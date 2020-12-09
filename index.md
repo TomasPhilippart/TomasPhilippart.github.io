@@ -1,9 +1,9 @@
 ---
-title: /
+title: root
 layout: home
 permalink: /
 ---
 
-# Welcome
+# > "Welcome" 
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+lorem ipsum bro
